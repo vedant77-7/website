@@ -1,0 +1,10 @@
+node_modules/
+dist/
+photos/
+.env
+.env.*
+.DS_Store
+Thumbs.db
+.claude/settings.local.json
+.vercel/
+.netlify/
